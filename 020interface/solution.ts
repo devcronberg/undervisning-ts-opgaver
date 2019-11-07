@@ -15,9 +15,9 @@
     alder
   };
 
-  function skriv(o: IPerson): void {
+  let skriv = function(o: IPerson): void {
     console.log(`Jeg hedder ${o.navn} og er ${o.alder()} gammel.`);
-  }
+  };
 
   skriv(a);
 

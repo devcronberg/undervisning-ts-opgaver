@@ -28,3 +28,7 @@ npm i -g tslint
 
 - [Opgave i forskellig brug af typer](010typer/opgave/readme.md#typer)
 - [Opgave i brug af interface](020interface/opgave/readme.md#interface)
+- [Opgave i brug af en callback metode](030callback/opgave/readme.md#callback)
+- [Opgave i brug af klasse og nedarvning](040class/opgave/readme.md#klasse)
+- [Opgave i brug af modul](050modul/opgave/readme.md#modul)
+- [Opgave i brug af async](060async/opgave/readme.md#modul)
