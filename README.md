@@ -24,9 +24,7 @@ Du kan overveje at benytte TSLint hvilket kræver en global installation af tsli
 ```
 npm i -g tslint
 ```
-
-samt installation af extension "TSLint" i VSCode.
-
 ## Opgaver
 
 - [Opgave i forskellig brug af typer](010typer/opgave/readme.md#typer)
+- [Opgave i brug af interface](020interface/opgave/readme.md#interface)

@@ -8,6 +8,7 @@ Dette er en simpel opgave i brug af forskellige typer. Start med at skabe en tom
 - Skab en variabel d som en any, og tildel værdien "*"
 - Skab en variabel e som et object, og tildel værdien {}
 - Skab en const f som en Funktion, og tildel den en funktion der blot skriver noget på konsol
+  - Prøv både at angive typen som Funktion og som ()=>void
 - Skab en const g som et array af number, og tildel den tilfældige tal ([3,1,4,14])
 - Skab en funktionerne add1, add2 og add3, der alle tager numre som argument, og returnerer et nummer
   - Almindelig funktion (function (...))
