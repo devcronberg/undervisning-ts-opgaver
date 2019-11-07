@@ -29,4 +29,4 @@ samt installation af extension "TSLint" i VSCode.
 
 ## Opgaver
 
-- [Opgave i forskellig brug af typer](010typer/opgave/readme.md)
+- [Opgave i forskellig brug af typer](010typer/opgave/readme.md#typer)
