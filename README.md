@@ -1,4 +1,4 @@
-# undervisning-ts-opgaver
+# Opgaver til Typescript
 
 Forudsætter at Node er installeret, og at dette repository er hentet og placeret i en tom mappe. Hent enten zip og pak ud eller kør følgende fra kommandoprompt:
 
@@ -29,3 +29,4 @@ samt installation af extension "TSLint" i VSCode.
 
 ## Opgaver
 
+- [Opgave i forskellig brug af typer](010typer/opgave/readme.md)
