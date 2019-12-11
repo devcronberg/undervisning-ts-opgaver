@@ -17,7 +17,7 @@ Dette er en simpel opgave i brug af forskellige typer. Start med at skabe en tom
   - Prøv alle funktionerne på console
 - Skab en enumeration kaldet Køn med mulighederne Mand og Kvinde
   - Skab en variabel h af typen Køn, og tildel den værdien Kvinde
-- Skab en funktion addSubtract, der tager to numre og returnerer en tuple med argumenterne lag sammen og trukket fra hinanden - altså returnerer to numre
+- Skab en funktion addSubtract, der tager to numre og returnerer en tuple med argumenterne lagt sammen og trukket fra hinanden - altså returnerer to numre
 
 Husk at holde øje med kompileringsfejl (og TSLint?), og prøv dig frem med forskellige provokerede fejl.
 
