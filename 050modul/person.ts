@@ -16,6 +16,6 @@ export class Person {
   }
 
   public skriv() {
-    console.log(`Jeg hedder ${this.navn} og er ${this.alder} gammel`);
+    console.log(`Jeg hedder ${this.navn} og er ${this.alder} år gammel`);
   }
 }
